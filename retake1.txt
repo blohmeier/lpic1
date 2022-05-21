@@ -6,55 +6,55 @@ b
 c
 c
 a
-c
+c - b
 d
 c
-d
-c
+d - a
+c - a
+a - c	
+d 
 a
+b - c
+c
+b
+a
+a
+c - c
 d
+d - b
 a
 b
+a
+d
+d - a
+a
+d
 c
+b - a
 b
-a
-a
 c*
-d
-d
-a
-b
-a
-d
-d
-a
-d
-c
-b
-b
-c*
-b
-a
-c
+b - d
+a - d
+c - a
 a
 c
 c
-a
-b
-b
-b
-a
+a - c
+b - a
+b - a
 b
 a
+b
+a - b
 d
-a
+a - d
 b
 a
-b
-c
+b - c
+c - b
 a
 c
 a
 d
-c
+c - a
 c
